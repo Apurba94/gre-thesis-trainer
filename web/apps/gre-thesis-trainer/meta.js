@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-thesis-trainer", "title": "Thesis Statement Trainer", "exam": "GRE", "area": "GRE Writing and Planning", "desc": "Choose the strongest thesis for a prompt and learn what makes a position clear and arguable.", "content": ["theses.json", "issue_prompts.json"], "n": 40};
